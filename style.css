@@ -1,0 +1,28 @@
+body {
+    color: #3B3A3A;
+font-family: "idact+Gothic",Helvetica,Arial,sans-serif;
+text-align: center;
+}
+
+.footer {
+	width: 100%;
+	text-align: center;
+	margin-top: 40px;
+	letter-spacing: 8px;
+}
+
+.linkedin:hover {
+	opacity: 0.3;
+	transition: width 2s;}
+
+			.twitter:hover {
+				opacity: 0.3;
+				transition: width 2s;}
+
+				.instagram:hover {
+					opacity: 0.3;
+					transition: width 2s;}
+
+					.pinterest:hover {
+						opacity: 0.3;
+						transition: width 2s;}
